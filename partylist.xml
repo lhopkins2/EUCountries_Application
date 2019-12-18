@@ -1,0 +1,10 @@
+<object-stream>
+  <list>
+    <Party>
+      <partyName>lab</partyName>
+      <partyLeader>l</partyLeader>
+      <partyGenre>left</partyGenre>
+      <numLocalReps>3</numLocalReps>
+    </Party>
+  </list>
+</object-stream>
